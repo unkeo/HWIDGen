@@ -1,3 +1,6 @@
+# 激活方法
+在主界面右侧默认INFO的位置选择HWID，点击START即可开始激活。
+
 # HWIDGen
 HWIDGEN是一款由國外Nsane論壇會員s1ave77製作的Windows 10數字權利激活工具，這款Win10數字權利獲取工具，可以自動獲取Windows 10 數字許可證激活，無需產品密鑰，以最簡單的方式永久激活。
 
